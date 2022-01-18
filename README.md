@@ -11,7 +11,7 @@
     Visual Effects
     Film & Tv
 
-### 🌱 I’m currently learning
+### 💭 I’m currently learning
     Visual Effects
     Python
     Gdscript
