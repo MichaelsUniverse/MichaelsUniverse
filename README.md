@@ -9,7 +9,7 @@
     Video Games
     Programming
     Visual Effects
-    Film & Tv
+    Film & Television
 
 ### 💭 I’m currently learning
     Visual Effects
