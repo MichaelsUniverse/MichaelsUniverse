@@ -6,7 +6,7 @@
 ### ⭐ Achievements
 --->
 ### 👀 I’m interested in
-    Videogames
+    Video Games
     Programming
     Visual Effects
     Film & Tv
