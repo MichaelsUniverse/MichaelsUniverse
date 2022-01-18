@@ -2,6 +2,9 @@
 
 ## ℹ️ About Me
 
+<!---
+### ⭐ Achievements
+--->
 ### 👀 I’m interested in
     Videogames
     Programming
