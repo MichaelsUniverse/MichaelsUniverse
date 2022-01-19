@@ -16,7 +16,8 @@
     Python
     Gdscript
     Html
-    css
+    Css
+    Javascript
 
 ## 📚 Education
 
