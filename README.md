@@ -19,6 +19,12 @@
     Css
     Javascript
 
+## 📝 Experience
+#### Boxnet Media
+    Maintenance Webpage
+    Html & Css
+[Maintenance Webpage](itsabox.net)
+
 ## 📚 Education
 
 ### 🎞️ Vancouver Film School
