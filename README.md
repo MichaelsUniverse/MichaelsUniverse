@@ -23,7 +23,6 @@
 #### Boxnet Media
     Maintenance Webpage
     Html & Css
-[Maintenance Webpage](itsabox.net)
 
 ## 📚 Education
 
