@@ -15,9 +15,6 @@
     Visual Effects
     Python
     Gdscript
-    Html
-    Css
-    Javascript
 
 ## 📝 Experience
 #### Boxnet Media
