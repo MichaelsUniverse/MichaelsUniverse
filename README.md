@@ -5,31 +5,26 @@
 <!---
 ### ⭐ Achievements
 --->
-### 👀 I’m interested in
-    Video Games
-    Programming
-    Visual Effects
-    Film & Television
 
 ### 💭 I’m currently learning
-    Visual Effects
-    Python
     Gdscript
 
 ## 📝 Experience
+#### Soho VFX
+    Worked on Multiple Box Office Movies
+        - Thanksgiving (2023)
+        - Echo S1 (2024)
+        - Harold and the Purple Crayon (2024)
+        - The Boys S4 (2024)
+        
 #### Boxnet Media
     Maintenance Webpage
     Html & Css
 
 #### Meteorite Solutions
-    Back-End in Golang
+    Back-End Developer in Golang
 
 ## 📚 Education
-
-### 🎞️ Vancouver Film School
-#### Foundations in Visual Art & Design
-    Diploma
-    January 2021 - December 2021
 
 ### 🎒 Seneca College
 #### Visual Effects for Film & Television
