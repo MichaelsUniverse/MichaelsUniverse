@@ -11,7 +11,7 @@
 
 ## 📝 Experience
 #### Soho VFX
-    Worked on Multiple Box Office Movies
+    Worked on Multiple Box Office Movies & Shows
         - Thanksgiving (2023)
         - Echo S1 (2024)
         - Harold and the Purple Crayon (2024)
