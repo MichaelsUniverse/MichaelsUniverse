@@ -7,7 +7,7 @@
 --->
 
 ### 💭 I’m currently learning
-    Gdscript
+    Software Engineering Technology | Centennial College
 
 ## 📝 Experience
 #### Soho VFX
