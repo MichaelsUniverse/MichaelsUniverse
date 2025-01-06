@@ -16,6 +16,7 @@
         - Echo S1 (2024)
         - Harold and the Purple Crayon (2024)
         - The Boys S4 (2024)
+        - Skeleton Crew S1 (2024)
         
 #### Boxnet Media
     Maintenance Webpage
